@@ -20,7 +20,7 @@ const Series = () => {
 
   return (
     <div>
-      <span className='pageTitle'>Series</span>
+      <span className='pageTitle'>Series </span>
       <div className="search">
         {content &&
           content.map((cardContent) => (
