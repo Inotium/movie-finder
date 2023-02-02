@@ -30,7 +30,7 @@ const Series = () => {
               poster={cardContent.poster_path}
               title={cardContent.title || cardContent.name}
               date={cardContent.first_air_date || cardContent.release_date}
-              media_type="movie"
+              media_type="tv"
             />
           ))}
           </div>
