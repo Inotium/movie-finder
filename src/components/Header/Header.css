@@ -1,0 +1,15 @@
+.header {
+    width: 100%;
+    cursor: pointer;
+    position: fixed;
+    display: flex;
+    justify-content: center;
+    text-transform: uppercase;
+    background-color: #2a3131;
+    font-family:'Times New Roman', Times, serif;
+    font-size: 40px;
+    padding-bottom: 10px;
+    color: whitesmoke;
+    z-index: 100;
+
+}

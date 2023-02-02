@@ -1,0 +1,8 @@
+.search {
+    display: flex;
+   flex-wrap: wrap;
+   justify-content: space-around;
+}
+.searchBar {
+   background-color: #99a1a1;
+}
