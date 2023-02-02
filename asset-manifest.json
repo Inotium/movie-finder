@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/Inotium.github.io/movie-finder/static/css/main.5b080728.css",
-    "main.js": "/Inotium.github.io/movie-finder/static/js/main.31b6e2ed.js",
-    "index.html": "/Inotium.github.io/movie-finder/index.html",
-    "main.5b080728.css.map": "/Inotium.github.io/movie-finder/static/css/main.5b080728.css.map",
-    "main.31b6e2ed.js.map": "/Inotium.github.io/movie-finder/static/js/main.31b6e2ed.js.map"
+    "main.css": "/movie-finder/static/css/main.5b080728.css",
+    "main.js": "/movie-finder/static/js/main.31b6e2ed.js",
+    "index.html": "/movie-finder/index.html",
+    "main.5b080728.css.map": "/movie-finder/static/css/main.5b080728.css.map",
+    "main.31b6e2ed.js.map": "/movie-finder/static/js/main.31b6e2ed.js.map"
   },
   "entrypoints": [
     "static/css/main.5b080728.css",
