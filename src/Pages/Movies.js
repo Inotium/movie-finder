@@ -17,7 +17,7 @@ const Movies = () => {
     setContent(data.results)
     //console.log(data);
   }
-  
+  console.log("hello")
   useEffect(() => {
     getMovies();
   }, []);
